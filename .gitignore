@@ -1,0 +1,23 @@
+# Archivos generados al compilar y ejecutar
+[Bb]in/
+[Oo]bj/
+
+# Configuración personal de Visual Studio
+.vs/
+*.user
+*.suo
+*.rsuser
+*.sln.docstates
+
+# Configuración local de VS Code
+.vscode/
+
+# Archivos temporales y respaldos
+*.tmp
+*.bak
+*~
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+Desktop.ini
