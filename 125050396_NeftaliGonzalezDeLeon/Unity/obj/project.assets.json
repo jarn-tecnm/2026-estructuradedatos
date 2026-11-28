@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\muebl\\Desktop\\Estructura de Datos\\Unity\\Unity.csproj",
+      "projectUniqueName": "c:\\Users\\muebl\\2026-estructuradedatos_ng\\125050396_NeftaliGonzalezDeLeon\\Unity\\Unity.csproj",
       "projectName": "Unity",
-      "projectPath": "C:\\Users\\muebl\\Desktop\\Estructura de Datos\\Unity\\Unity.csproj",
+      "projectPath": "c:\\Users\\muebl\\2026-estructuradedatos_ng\\125050396_NeftaliGonzalezDeLeon\\Unity\\Unity.csproj",
       "packagesPath": "C:\\Users\\muebl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\muebl\\Desktop\\Estructura de Datos\\Unity\\obj\\",
+      "outputPath": "c:\\Users\\muebl\\2026-estructuradedatos_ng\\125050396_NeftaliGonzalezDeLeon\\Unity\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\muebl\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.404/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
